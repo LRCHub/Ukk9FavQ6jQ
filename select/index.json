@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ホームシック",
+  "base_artist": "Home Made Kazoku",
+  "createdAt": "2026-02-18T03:56:37.126881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホームシック",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_ホームシック_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホームシック",
+      "artist": "home made 家族",
+      "has_synced": false,
+      "path": "select/02_ホームシック_home_made_家族.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホームシック",
+      "artist": "HOME MADE 家族",
+      "has_synced": false,
+      "path": "select/pl_01_ホームシック_HOME_MADE_家族.txt"
+    }
+  ]
+}
